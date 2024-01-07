@@ -1,0 +1,9 @@
+{
+  "name": "@douglowder/metro-resolver-platform-variants",
+  "version": "0.0.1",
+  "description": "Allows Metro to resolve platform variants (.ios.variant.ts, .android.variant.ts, .variant.ts)",
+  "main": "index.js",
+  "repository": "https://github.com/douglowder/metro-resolver-platform-variants",
+  "author": "Douglas Lowder <douglowder@mac.com>",
+  "license": "MIT"
+}
