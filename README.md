@@ -24,7 +24,7 @@ The resolver is designed to pass to the default resolver quickly if no "variant"
 const { getDefaultConfig, mergeConfig } = require('@react-native/metro-config');
 const {
   platformVariantResolver,
-} = require('@react-native-tvos/metro-resolver-platform-variants');
+} = require('@douglowder/metro-resolver-platform-variants');
 
 const defaultConfig = getDefaultConfig(__dirname);
 
